@@ -15,10 +15,12 @@ var binLog = new BinLog({
  */
 binLog.use(BinLog.Packets.Rotate);
 binLog.use(BinLog.Packets.Format);
-binLog.use(BinLog.Packets.Query);
+// binLog.use(BinLog.Packets.Query);
 // binLog.use(BinLog.Packets.Xid);
 // binLog.use(BinLog.Packets.Stop);
-// binLog.use(BinLog.Packets.TableMap);
-// binLog.use(BinLog.Packets.UpdateRows);
+
+// Row Events
+binLog.use(BinLog.Packets.TableMap);
+binLog.use(BinLog.Packets.UpdateRows);
 
 binLog.start();
