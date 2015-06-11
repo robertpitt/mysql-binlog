@@ -1,0 +1,987 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"var_export"
+			],
+			[
+				"error",
+				"error_log"
+			],
+			[
+				"accunt",
+				"accountBelongsToOrganisation"
+			],
+			[
+				"organ",
+				"organisations"
+			],
+			[
+				"templ",
+				"template_path"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"oauth",
+				"oauth_exluded_endpoints"
+			],
+			[
+				"get_roes",
+				"get_roles_tree"
+			],
+			[
+				"get_per",
+				"get_permissions_tree"
+			],
+			[
+				"secu",
+				"securiy_context"
+			],
+			[
+				"acc",
+				"account_id"
+			],
+			[
+				"end",
+				"_endpoints"
+			],
+			[
+				"origin",
+				"origin_parsed"
+			],
+			[
+				"escap",
+				"escape"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"erp",
+				"erp_ids"
+			],
+			[
+				"req",
+				"requirePermission"
+			],
+			[
+				"require",
+				"requireScopes"
+			],
+			[
+				"contract",
+				"contract_no"
+			],
+			[
+				"cust",
+				"customer_nos"
+			],
+			[
+				"Org",
+				"organisations"
+			],
+			[
+				"de",
+				"deprecated	@deprecated"
+			],
+			[
+				"ticket",
+				"ticket_update_id"
+			],
+			[
+				"cas",
+				"caster"
+			],
+			[
+				"customer",
+				"customer_no"
+			],
+			[
+				"call_",
+				"call_user_func_array"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"status",
+				"status_id"
+			],
+			[
+				"contact",
+				"contact_id"
+			],
+			[
+				"las",
+				"last_comment_user"
+			],
+			[
+				"contr",
+				"contract_line"
+			],
+			[
+				"Remo",
+				"remote_id"
+			],
+			[
+				"bind",
+				"bindParam"
+			],
+			[
+				"fetc",
+				"fetchAll"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"Dc",
+				"document"
+			],
+			[
+				"map",
+				"mapType"
+			],
+			[
+				"Base",
+				"BaseExtractor"
+			],
+			[
+				"get",
+				"getTitle"
+			],
+			[
+				"Abstr",
+				"AbstractNode"
+			],
+			[
+				"fo",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"ma",
+				"Mappio"
+			],
+			[
+				"strt",
+				"strtoupper"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"_",
+				"_endpoints"
+			],
+			[
+				"iss",
+				"isset"
+			],
+			[
+				"pars",
+				"parse_url"
+			],
+			[
+				"cli",
+				"clientId"
+			],
+			[
+				"client",
+				"clientId"
+			],
+			[
+				"ann",
+				"annotations"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"annota",
+				"annotations"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"tag",
+				"tagName"
+			],
+			[
+				"annotat",
+				"annotation_handlers"
+			],
+			[
+				"anno",
+				"annotation"
+			],
+			[
+				"handlers",
+				"annotation_handlers"
+			],
+			[
+				"get_",
+				"get_object_vars"
+			],
+			[
+				"class",
+				"classnames"
+			],
+			[
+				"clas",
+				"class	class …"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"is",
+				"is_object"
+			],
+			[
+				"get_b",
+				"get_builder"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"invo",
+				"invoice_id"
+			],
+			[
+				"account",
+				"account_id"
+			],
+			[
+				"orga",
+				"organisation_context"
+			],
+			[
+				"Account",
+				"account"
+			],
+			[
+				"call",
+				"call_user_func_array"
+			],
+			[
+				"org",
+				"Organisation"
+			],
+			[
+				"method",
+				"method_exists"
+			],
+			[
+				"sub",
+				"sub_command"
+			],
+			[
+				"add",
+				"addResource"
+			],
+			[
+				"cre",
+				"crest"
+			],
+			[
+				"_ma",
+				"_max_map_size"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"param",
+				"params"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"St",
+				"StorageInterface"
+			],
+			[
+				"requ",
+				"require_once"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"inval",
+				"invalid-resource"
+			],
+			[
+				"e",
+				"equal"
+			],
+			[
+				"do",
+				"inheritDoc	@inheritDoc"
+			],
+			[
+				"proto",
+				"proto	Prototype"
+			],
+			[
+				"proper",
+				"property"
+			],
+			[
+				"prop",
+				"property"
+			],
+			[
+				"p",
+				"package	@package"
+			],
+			[
+				"prof",
+				"profile_in"
+			],
+			[
+				"json_",
+				"json_body"
+			],
+			[
+				"json",
+				"json_body"
+			],
+			[
+				"inv",
+				"invalid-parameter"
+			],
+			[
+				"up",
+				"updates"
+			],
+			[
+				"Cres",
+				"Crest"
+			],
+			[
+				"opt",
+				"opt_params"
+			],
+			[
+				"opt_",
+				"opt_params"
+			],
+			[
+				"cr",
+				"crest"
+			],
+			[
+				"_test",
+				"_testServerResponse"
+			],
+			[
+				"Tn",
+				"Tinytest"
+			],
+			[
+				"op",
+				"opt_id"
+			],
+			[
+				"tes",
+				"Tinytest"
+			],
+			[
+				"obje",
+				"objectID"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"eq",
+				"equal"
+			],
+			[
+				"Crest",
+				"CrestResource"
+			],
+			[
+				"invlaid",
+				"invalid-resource"
+			],
+			[
+				"invalid",
+				"invalid-options"
+			],
+			[
+				"env",
+				"environment"
+			],
+			[
+				"Acces",
+				"AccessTokensModel"
+			],
+			[
+				"util",
+				"Util"
+			],
+			[
+				"connection",
+				"connection"
+			],
+			[
+				"conn",
+				"_connections"
+			],
+			[
+				"s",
+				"since	@since"
+			],
+			[
+				"pr",
+				"private	@private"
+			],
+			[
+				"a",
+				"authorisedScopes"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"access",
+				"accessToken"
+			],
+			[
+				"acce",
+				"accessToken"
+			],
+			[
+				"un",
+				"UnauthorizedError"
+			],
+			[
+				"ac",
+				"access_token"
+			],
+			[
+				"ser",
+				"server"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"toke",
+				"tokenInfo"
+			],
+			[
+				"Le",
+				"LeagueResource"
+			],
+			[
+				"L",
+				"LeagueResource"
+			],
+			[
+				"Ticket",
+				"TicketCollection"
+			],
+			[
+				"cons",
+				"constructor"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/binlog.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 201.0,
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"xml",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sn bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syn ",
+				"Set Syntax: PHP"
+			],
+			[
+				"synt ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/rpitt/Projects/mysql-binlog"
+	],
+	"file_history":
+	[
+		"/home/rpitt/Projects/crystal/initial.cr",
+		"/home/rpitt/mount/.platform/applications/api/controllers/support/tickets.php",
+		"/home/rpitt/mount/.platform/applications/api/includes/controllers/api.php",
+		"/home/rpitt/mount/.platform/shared/vendor/centiq/rbac/src/centiq/rbac/Entities/Account.php",
+		"/home/rpitt/mount/.platform/applications/api/controllers/ac.php",
+		"/home/rpitt/bpmount/applications/api/controllers/categories.php",
+		"/home/rpitt/bpmount/shared/models/accounts.php",
+		"/home/rpitt/bpmount/shared/models/users.php",
+		"/home/rpitt/bpmount/applications/cli/base_controller.php",
+		"/home/rpitt/bpmount/applications/cli/apidoc_template.html",
+		"/home/rpitt/bpmount/applications/api/controllers/index.php",
+		"/home/rpitt/Projects/ddpub/packages/ddpub-accounts/package.js",
+		"/home/rpitt/Projects/ddpub/packages/ddpub-accounts/ddpub-accounts.js",
+		"/home/rpitt/Projects/ddpub/packages/ddpub-accounts/ddpub-accounts-client.js",
+		"/home/rpitt/Projects/ddpub/packages/ddpub-accounts/ddpub-accounts-common.js",
+		"/home/rpitt/Projects/ddpub/packages/ddpub/package.js",
+		"/home/rpitt/Projects/ddpub/packages/ddpub/ddpub.js",
+		"/home/rpitt/mount/.platform/shared/models/organisations.php",
+		"/home/rpitt/mount/.platform/shared/models/rbac.php",
+		"/home/rpitt/mount/.platform/applications/api/controllers/erp/contracts.php",
+		"/home/rpitt/Projects/optiq-v2/package.json",
+		"/home/rpitt/Projects/optiq-v2/deploy.json",
+		"/home/rpitt/Projects/optiq-v2/packages/route-invoices/crest-config.js",
+		"/home/rpitt/Projects/optiq-v2/config/settings.json",
+		"/home/rpitt/Projects/optiq-v2/packages/route-invoices/Invoices/controller.js",
+		"/home/rpitt/mount/.platform/shared/models/nav.php",
+		"/home/rpitt/Projects/optiq-v2/packages/route-admin/Admin/Organisations/Manage/collection.js",
+		"/home/rpitt/Projects/optiq-v2/packages/route-admin/Admin/Organisations/Manage/controller.js",
+		"/home/rpitt/Projects/optiq-v2/packages/lib-oauth/configure.js",
+		"/home/rpitt/Projects/optiq-v2/packages/lib-access-token/lib-access-token.js",
+		"/home/rpitt/Projects/optiq-v2/packages/lib-route-progress/package.js",
+		"/home/rpitt/Projects/optiq-v2/packages/app-base/package.js",
+		"/home/rpitt/Projects/optiq-v2/packages/lib-route-progress/lib-route-progress.js",
+		"/home/rpitt/Projects/optiq-v2/packages/lib-route-progress/lib-route-progress.less",
+		"/home/rpitt/Projects/centiq-base/client/styles/iron-router-progress.less",
+		"/home/rpitt/Projects/optiq-v2/packages/lib-access-token/common/access-token.js",
+		"/home/rpitt/mount/.platform/shared/models/sirportly_sql.php",
+		"/home/rpitt/Projects/optiq-v2/packages/route-supportdesk/crest-config.js",
+		"/home/rpitt/mount/.platform/shared/vendor/centiq/models/src/centiq/models/Support/Ticket.php",
+		"/home/rpitt/mount/.platform/framework/README.md",
+		"/home/rpitt/mount/.platform/applications/api/helpers/caster.php",
+		"/home/rpitt/mount/.platform/shared/configs/sirportly.php",
+		"/home/rpitt/mount/.platform/migrations/20140604103813_set_developers_as_super_users.php",
+		"/home/rpitt/mount/.platform/migrations/20140604103613_install_rbac.php",
+		"/home/rpitt/mount/.platform/shared/vendor/centiq/models/src/centiq/models/Support/TicketPartial.php",
+		"/home/rpitt/tickets_fixtures.js",
+		"/home/rpitt/Projects/mappio/node_modules/sax/examples/get-products.js",
+		"/home/rpitt/Projects/mappio/node_modules/xml2js/node_modules/sax/lib/sax.js",
+		"/home/rpitt/Projects/mappio/fixtures/Document.xml",
+		"/home/rpitt/Projects/mappio/lib/extractors/index.js",
+		"/home/rpitt/Projects/mappio/examples/mindjet.js",
+		"/home/rpitt/Projects/mappio/lib/abstract_node.js",
+		"/home/rpitt/Projects/mappio/lib/abstract_map.js",
+		"/home/rpitt/Projects/optiq-v2/.meteor/packages",
+		"/home/rpitt/Projects/optiq-v2/.meteor/versions",
+		"/home/rpitt/Projects/optiq-v2/packages/app-route-base/controllers/AuthenticatedController.js",
+		"/home/rpitt/Projects/optiq-v2/packages/app-route-base/package.js",
+		"/home/rpitt/Projects/optiq-v2/packages/route-admin/Admin/Accounts/Manage/controller.js",
+		"/home/rpitt/bpmount/applications/cli/controllers/clients.js",
+		"/home/rpitt/bpmount/shared/models/client.php",
+		"/home/rpitt/bpmount/applications/cli/controllers/test.php",
+		"/home/rpitt/bpmount/cli",
+		"/home/rpitt/Projects/optiq-v2/packages/lib-roles/package.js",
+		"/home/rpitt/Projects/optiq-v2/.editorconfig",
+		"/home/rpitt/mount/.platform/migrations/20150303140854_clean_indices_for_platform.php",
+		"/home/rpitt/mount/.platform/applications/api/controllers/user.php",
+		"/home/rpitt/mount/.platform/applications/api/controllers/accounts.php",
+		"/home/rpitt/mount/.platform/applications/api/controllers/organisations.php",
+		"/home/rpitt/Projects/laravelApi/config/app.php",
+		"/home/rpitt/Projects/laravelApi/config/database.php",
+		"/home/rpitt/Projects/laravelApi/composer.json",
+		"/home/rpitt/Projects/laravelApi/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php",
+		"/home/rpitt/Projects/laravelApi/vendor/laravel/framework/src/Illuminate/Session/SessionManager.php",
+		"/home/rpitt/Projects/laravelApi/vendor/laravel/framework/src/Illuminate/Session/SessionInterface.php",
+		"/home/rpitt/Projects/laravelApi/vendor/laravel/framework/src/Illuminate/Session/ExistenceAwareInterface.php",
+		"/home/rpitt/Projects/laravelApi/vendor/laravel/framework/src/Illuminate/Session/SessionServiceProvider.php",
+		"/home/rpitt/Projects/laravelApi/vendor/laravel/framework/src/Illuminate/Session/FileSessionHandler.php",
+		"/home/rpitt/Projects/laravelApi/vendor/laravel/framework/src/Illuminate/Session/Store.php",
+		"/home/rpitt/Projects/laravelApi/.env",
+		"/home/rpitt/Projects/laravelApi/app/Http/Kernel.php",
+		"/home/rpitt/Projects/laravelApi/app/Http/routes.php",
+		"/home/rpitt/Projects/laravelApi/app/Http/Controllers/IndexController.php",
+		"/home/rpitt/Projects/laravelApi/app/Exceptions/Handler.php",
+		"/home/rpitt/Projects/laravelApi/app/Http/Controllers/OAuthController.php",
+		"/home/rpitt/Projects/laravelApi/vendor/laravel/framework/src/Illuminate/Http/Middleware/FrameGuard.php",
+		"/home/rpitt/Projects/laravelApi/.env.example",
+		"/home/rpitt/Projects/laravelApi/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php",
+		"/home/rpitt/Projects/laravelApi/app/Client.php",
+		"/home/rpitt/Projects/laravelApi/app/ClientEndpoint.php",
+		"/home/rpitt/Projects/laravelApi/app/Scopes.php",
+		"/home/rpitt/Projects/laravelApi/app/SessionAccessToken.php",
+		"/home/rpitt/Projects/laravelApi/app/SessionAuthcode.php",
+		"/home/rpitt/Projects/laravelApi/app/SessionRedirect.php",
+		"/home/rpitt/Projects/laravelApi/app/SessionAuthcodeScope.php",
+		"/home/rpitt/Projects/laravelApi/app/Session.php",
+		"/home/rpitt/Projects/laravelApi/app/Providers/JsonErrorServiceProvider.php",
+		"/home/rpitt/Projects/laravelApi/app/Http/Controllers/Auth/PasswordController.php",
+		"/home/rpitt/Projects/laravelAPI/api/app/views/emails/auth/reminder.blade.php",
+		"/home/rpitt/Projects/php-apidoc/src/Centiq/Apidoc/Annotations/BaseAnnotation.php",
+		"/home/rpitt/mount/.platform/shared/vendor/centiq/rbac/src/centiq/rbac/Manager.php",
+		"/home/rpitt/mount/.platform/shared/vendor/centiq/rbac/src/centiq/rbac/Entities/Node.php",
+		"/home/rpitt/mount/.platform/applications/api/controllers/erp/invoices.php",
+		"/home/rpitt/Projects/apidocs/composer.json",
+		"/home/rpitt/Projects/apidocs/src/Centiq/Apidoc/Examples/Basic.php",
+		"/home/rpitt/Projects/apidocs/tests/Centiq/Apidoc/DocumentorTest.php",
+		"/home/rpitt/Projects/apidocs/src/Centiq/Apidoc/Documentor.php",
+		"/home/rpitt/Projects/apidocs/tests/phpunit.xml.dist",
+		"/home/rpitt/Projects/apidocs/tests/functional/AgilecylWebTest.php",
+		"/home/rpitt/Projects/php-apidoc/src/Documentor.php",
+		"/home/rpitt/Projects/php-apidoc/Exception.php",
+		"/home/rpitt/mount/.platform/applications/accounts/emails/registration.php",
+		"/home/rpitt/mount/.platform/shared/emails/invited_to_organisation.php",
+		"/home/rpitt/mount/.platform/applications/api/helpers/mail.php",
+		"/home/rpitt/mount/.platform/applications/api/models/organisations.php",
+		"/home/rpitt/mount/.platform/applications/api/helpers/accounts.php",
+		"/home/rpitt/mount/.platform/applications/accounts/controllers/auth.php",
+		"/home/rpitt/mount/.platform/applications/accounts/views/set_password.php",
+		"/home/rpitt/mount/.platform/applications/accounts/views/partials/forms/set_password.php",
+		"/home/rpitt/mount/.platform/applications/api/models/accounts.php",
+		"/home/rpitt/Projects/crest/packages/centiq:crest/lib/shared/resource.js",
+		"/home/rpitt/Projects/crest/packages/centiq:crest/resource.js",
+		"/home/rpitt/Projects/crest/packages/centiq:crest/crest.js",
+		"/home/rpitt/Projects/crest/packages/centiq:crest/crest-tests.js",
+		"/home/rpitt/Projects/crestv2/packages/centiq:crest/tests/resources.js",
+		"/home/rpitt/bpmount/applications/api/includes/Upload/Storage/RemotePost.php",
+		"/home/rpitt/Projects/crestv2/packages/centiq:crest/package.js",
+		"/home/rpitt/Projects/crestv2/packages/centiq:crest/tests/api.js",
+		"/home/rpitt/Projects/crestv2/packages/centiq:crest/lib/shared/resource.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/rpitt/Projects/node-api",
+			"/home/rpitt/Projects/centiq-base",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Password",
+			"Username",
+			"placeholder",
+			"php-api",
+			"api-",
+			"HEader",
+			"ApiParam",
+			"_dispatchOptionsResponse",
+			"sendHeaders\nsendHeaders",
+			"sendHeaders",
+			"setAccessControllOriginHeaders",
+			"_dispatchOptionsResponse",
+			"ti.status",
+			"t.stat",
+			"stre",
+			"createFromBase",
+			"getContent",
+			"_validateAccessToken",
+			"redirect_uri",
+			"session",
+			"Request",
+			"Resource",
+			"die",
+			"determineAccessToken",
+			"getPropertyValue",
+			"_setDefaultHeaders",
+			"_dispatchOptionsResponse",
+			"get_get",
+			"confirm",
+			"set_password",
+			"set_pass",
+			"Get",
+			"belongs",
+			"accountBe",
+			"linked",
+			"getAccountsLinkedToOrganisation",
+			"link",
+			"exists",
+			"getAccount",
+			"getAccountB",
+			"link",
+			"__cast_epoch",
+			"connection",
+			"callbac",
+			"console.log",
+			"server",
+			"TicketsCollection",
+			"CapacityPlanningView",
+			"Commercial",
+			"Administration",
+			".less",
+			"./definitions",
+			"type"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"exports",
+			"ServiceDesk",
+			"Home",
+			"Commercial",
+			".less\";",
+			"@import \"@{semantic-ui-path}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/binlog.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "binlog.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 358.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
